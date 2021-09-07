@@ -261,6 +261,27 @@ hr {
 	margin-bottom: 30px;
 }
 
+/* schools Section */
+#schools {
+	padding: 100px 0;
+	background: #98aeef;
+}
+#schools h2 {
+	color: #fff;
+}
+#schools hr {
+	background: rgba(255,255,255,0.3);
+}
+#schools .skill {
+	margin-bottom: 40px;
+	text-align: center;
+	padding: 0px;
+}
+#schools .skill h4 {
+	font-weight: 600;
+	color: #fff;
+}
+
 /* About Section */
 #about {
 	padding: 100px 0;
